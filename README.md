@@ -9,3 +9,9 @@ This project deals with classifying spam and not spam emails/SMSs using some Mac
 - Aayushi, 3rd year CSE student at VIT, Chennai
 - ![image](https://github.com/Aayushi2412/EmailSpamClassification/assets/106343054/46b0bd5f-ce53-48bd-bef4-d836c2300563)
 
+![image](https://github.com/Aayushi2412/EmailSpamClassification/assets/106343054/18b5c27b-9e60-4a48-9632-fcbcdd4ce30d)
+
+![image](https://github.com/Aayushi2412/EmailSpamClassification/assets/106343054/94aa9132-57af-48e7-b517-f452f85b09f8)
+
+
+
