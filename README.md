@@ -7,3 +7,5 @@ Gmail. Services providers are extensively using Machine learning techniques to f
 classify them successfully.
 This project deals with classifying spam and not spam emails/SMSs using some Machine Learning Algorithms like Naive Bayes Classifier and Support Vector Machine Classifier. Natural Language Processisng is also used in the text pre-processing to make the dataset suitable for the algorithms.
 - Aayushi, 3rd year CSE student at VIT, Chennai
+- ![image](https://github.com/Aayushi2412/EmailSpamClassification/assets/106343054/46b0bd5f-ce53-48bd-bef4-d836c2300563)
+
